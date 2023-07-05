@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>考研规划</title>
+    <url>/2023/07/03/BeiKe/</url>
+    <content><![CDATA[<h2 id="考试内容"><a href="#考试内容" class="headerlink" title="考试内容"></a>考试内容</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">const x=new Vue(&#123;</span><br><span class="line">name:&#x27;tom&#x27;</span><br><span class="line">&#125;)</span><br><span class="line">Object.defineProperty(x,&#x27;age&#x27;,&#123;</span><br><span class="line">value:18</span><br><span class="line">enumerable:true//控制属性是否可以遍历,默认是false</span><br><span class="line">writable:true//控制属性是否可以被修改,默认值是false</span><br><span class="line">configurable:true//控制属性是否可以被删除,默认是false</span><br><span class="line">//当有人读取x的age 属性时,get函数就会被调用,其返回值是age的值</span><br><span class="line">get:function()&#123;</span><br><span class="line">return &#x27;halo&#x27;</span><br><span class="line">&#125;</span><br><span class="line">//当有人修改x的age 属性时,set函数就会被调用,且会收到修改的具体值</span><br><span class="line">set(value)&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">&#125;)//age 不参与枚举(遍历)</span><br></pre></td></tr></table></figure>
+
+
+
+<ol>
+<li>两门公共课：政治，英语</li>
+<li>一门基础课：高数</li>
+<li>一门专业课：理学类</li>
+</ol>
+<h3 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h3><ul>
+<li>完形填空</li>
+<li>阅读理解</li>
+<li>新型题：3种题型随机考一种（七选五、排序题、小标题对应题）</li>
+<li>翻译：英翻中</li>
+<li>作文：大作文（图表或漫画为主，小作文以应用文为主，一般是写信）</li>
+</ul>
+<h3 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h3><ul>
+<li>《马克思主义基本原理概论》  24%</li>
+<li>《中国近代史纲要》  14%</li>
+<li>《毛泽东思想和中国特色社会主义理论体系概论》 30%</li>
+<li>《思想道德修养与法律基础》 16%</li>
+<li>《形式与政策》 16%</li>
+</ul>
+<p>2022贝壳<br><img src="/image.png" alt="Alt text" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<p>2022北理工</p>
+<p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230221121801948.png" alt="image-20230221121801948" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<ol>
+<li>一级学科</li>
+<li>细分专业和学校</li>
+<li>报录比，复录比</li>
+</ol>
+<p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230403162049160.png" alt="image-20230403162049160" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<h3 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h3><p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230417215641539.png" alt="image-20230417215641539" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230417215821990.png" alt="image-20230417215821990" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230417215915480.png" alt="image-20230417215915480" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230417220034107.png" alt="image-20230417220034107" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230418215527588.png" alt="image-20230418215527588" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<p>学习路径</p>
+<p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230418221832837.png" alt="image-20230418221832837" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<p>第十二章节三重积分及线面积分</p>
+<p><strong>知识框架</strong></p>
+<p><img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230418222942265.png" alt="image-20230418222942265" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'></p>
+<p>无穷级数：</p>
+<ol>
+<li>常数项级数</li>
+<li>幂级数</li>
+<li>弗列级数</li>
+</ol>
+<p><strong>一元函数微积分是重点</strong>、<strong>基础</strong></p>
+]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ikun</title>
+    <url>/2023/07/02/test/</url>
+    <content><![CDATA[<h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><h3 id="tasdasdasdasd"><a href="#tasdasdasdasd" class="headerlink" title="tasdasdasdasd"></a>tasdasdasdasd</h3>]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+  </entry>
+</search>
